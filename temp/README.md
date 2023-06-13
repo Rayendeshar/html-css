@@ -33,4 +33,4 @@ Metadata content
 Flow content
 -encircle most elements that can go inside the <body> element, including heading elements, sectioning elements, phrasing elements, embedding elements, interactive elements, and form-related elements. It also includes text nodes (but not those that only consist of white space characters).
 
-The flow elements are: -<a>: The Anchor element(with its href attribute, creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address)
+The flow elements are: -<a>: The Anchor element(with its href attribute, creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address).
