@@ -7,11 +7,3 @@ aside {
   font-style: italic;
   color: #6c90a2;
 }
-
-aside > p {
-  margin: 0.5rem;
-}
-
-.p {
-  font-family: "Fira Sans", sans-serif;
-}
