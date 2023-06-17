@@ -40,3 +40,6 @@ an abbreviation is used and you want to provide an expansion or definition outsi
 
  <acronym>
  The <acronym> HTML element allows authors to clearly indicate a sequence of characters that compose an acronym or abbreviation for a word.
+
+<address>: The Contact Address element
+The <address> HTML element indicates that the enclosed HTML provides contact information for a person or people, or for an organization.
