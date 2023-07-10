@@ -52,3 +52,6 @@ The flow elements are: -<a>: The Anchor element(with its href attribute, creates
 
   - <aside>: The Aside element
     The <aside> HTML element represents a portion of a document whose content is only indirectly related to the document's main content. Asides are frequently presented as sidebars or call-out boxes.
+
+Day 4 revision
+GIT and HTML
